@@ -1,0 +1,7 @@
+POST localhost:9090/order
+content-type: application/json
+
+{
+  "orderId": "orderId",
+  "paidMoney": 23.5
+}
